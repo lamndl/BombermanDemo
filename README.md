@@ -1,1 +1,2 @@
 # BombermanDemo
+require java19
